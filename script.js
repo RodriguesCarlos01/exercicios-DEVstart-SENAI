@@ -1,6 +1,4 @@
-
-
-    const temaBotao = document.querySelector("#tema-botao");
+const temaBotao = document.querySelector("#tema-botao");
     const html = document.documentElement
     
     temaBotao.addEventListener("click", () => {
